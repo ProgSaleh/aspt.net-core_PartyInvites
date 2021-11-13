@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbvTKwEzfNnhXqJvoRuWAJY/Jg47QLWbavKTt0m7boyGjt1KharjCfazpZpd/QhrsfAr3SRqtBNrWJpYsDU34w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Saleh\\Desktop\\adam\\ch03\\partyInvites\\partyInvites.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saleh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Saleh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
